@@ -10,15 +10,14 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "brycenk05", "url": "http://github.com/brycenk05" },
-      { "network": "linkedin", "username": "brycenk05", "url": "www.linkedin.com/in/brycen-y-kano" },
+      { "network": "linkedin", "username": "brycenk05", "url": "www.linkedin.com/in/brycen-y-kano" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Linguistics" },
+    { "name": "Cybersecurity" },
+    { "name": "Video Games" },
+    { "name": "Cooking" }
   ],
   "skills": [
     {
