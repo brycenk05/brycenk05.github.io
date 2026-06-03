@@ -11,7 +11,7 @@ labels:
   - Self
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/nintendo-body1">
+<img width="200px" class="rounded float-start pe-4" src="../img/nintendo-body1.jpg">
 
 ## When did it start?
 
