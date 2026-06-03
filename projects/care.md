@@ -11,7 +11,7 @@ labels:
 summary: "During my senior year of high school, I experienced the workfield through an internship at Hale Anuenue"
 ---
 
-<img class="img-fluid" src="img/care-body1.jpg">
+<img class="img-fluid" src="../img/care-body1.jpg">
 
 In my senior year, I was tasked with finding a place to gain some internship experience and build my senior project around. Eventually, I landed an internship at Hale Anuenue, a long-term care home where I would be supervised to gain experience through performing tasks including, frequently monitoring some residents needs and wellbeing, taking residents around the facility and reporting back to my supervisor.
 
