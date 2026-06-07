@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "More Than Just a Game"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2026-06-02
 published: true
 labels:
   - Learning
