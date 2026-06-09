@@ -32,7 +32,7 @@ labels:
 Question Link:
 https://stackoverflow.com/questions/79954304/form-creation-using-html
 
-  <img width="700px" class="img-fluid rounded" src="../img/e11-1.png">
+  <img width="700px" class="img-fluid rounded" src="../img/e11/e11-1.png">
 
   Although I am no expert in HTML development, there were several shortcomings that became apparent when compared to the guidelines provided by Raymond. While it is possible that the user had done so, it doesn’t appear anywhere in the post that they had made an effort to resolve the issue on their own, such as by researching before posting the question. And to add to this, they were also very broad, asking to just create an HTML form instead of seeking help with a specific obstacle encountered during development. As a result, readers are left with little information about where the user is struggling or what kind of assistance is actually needed.
 
@@ -45,7 +45,7 @@ https://stackoverflow.com/questions/79954304/form-creation-using-html
 Question Link:
 https://stackoverflow.com/questions/79954283/why-does-postman-rest-api-call-succeed-but-powershell-invoke-restmethod-fail-to
 
-<img width="700px" class="img-fluid rounded" src="../img/e11-2.png">
+<img width="700px" class="img-fluid rounded" src="../img/e11/e11-2.png">
 
   Unlike the previous example, this question hits most of the key points explained by Raymond. Here, the author clearly identified a specific problem rather than asking for general guidance. The post also demonstrated prior effort by describing debugging attempts and explaining that the API call had already been tested successfully in another environment. Not to mention, the author also included code for context to allow the responders to more easily investigate their issue. Even without expertise in the subject matter, I notice how clear it is that the author invested time into understanding and documenting the problem before requesting assistance.
 
