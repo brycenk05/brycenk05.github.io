@@ -11,7 +11,7 @@ labels:
   - Self
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/e10-2.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/e10/e10-2.png">
 
 ## Introduction
 
@@ -21,7 +21,7 @@ labels:
 
   While I was familiar with the basics, such as primitive types, I was surprised to see that evcerything was much more simplified. For example, allowing users to utilize implicit variables by just guessing based on what they set a variable to is a useful tool. Still allowing explicit typing like other traditional languages was also a nice inclusion. Additionally, a small detail I did prefer is that number type covering both integers and doubles, but above all, the static typing was very useful for finding bugs in my code, especially during the practice WODs where I would make some minor mistakes that I would sometimes overlook.
 
-<img width="900px" class="rounded float-start pe-4" src="../img/e10-1.png">
+<img width="900px" class="rounded float-start pe-4" src="../img/e10/e10-1.png">
 
   With how simple and user friendly the language aims to be, I would say that there is no real downside to having this language for software engineering. Although, I feel that there are some complexity drawbacks such as additional syntax like interfaces and enums, I would say the positives outweigh the negatives, especially with the perk of static typing and making readability of the code much easier. In addition, interfaces can also help with structuring data in a program especially as they grow in size. For these reasons I would say that TypeScript is a strong language for software engineering. 
 
