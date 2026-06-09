@@ -11,8 +11,6 @@ labels:
   - Self
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/e10-2.png">
-
 ## Introduction
 
   Within software development, there is more to it than just developing code, and it's more than likely you will be working with others to develop this code. Whether it be multiple parts meant to work together or even something as simple as working on the same block to proof-check each other's work. For this reason, it is important that you have a clear line of communication so as not to confuse others and maybe even yourself. This is where asking a smart question comes in handy, not only when working as a group but also when consulting online forums for assistance. 
