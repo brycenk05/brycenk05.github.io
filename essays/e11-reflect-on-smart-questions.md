@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "To Be Smart or Not to Be Smart"
 # All dates must be YYYY-MM-DD format!
-date: 2026-06-06
+date: 2026-06-08
 published: true
 labels:
   - Learning
