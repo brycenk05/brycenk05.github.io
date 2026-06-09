@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/bank-header.png
+image: img/projectpics/bank-header.png
 title: "Bank Interface"
 date: 2025
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "A bank interface project completed in ICS 212"
 ---
 
-<img class="img-fluid" src="../img/bank-body1.png">
+<img class="img-fluid" src="../img/projectpics/bank-body1.png">
 
 As suggested in the summary, this was a semester-long required project during my time in ICS 212, Program Structure. To a user, the program would simply allow them to either add, delete, find and printall records on an external file. This file would be written and read from using the previously mentioned functions.
 
