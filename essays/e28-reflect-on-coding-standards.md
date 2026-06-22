@@ -21,15 +21,13 @@ As previously mentioned, while stylistic choices such as indentation and bracket
 
 And while scenarios like this are typically resolved with more time and experience working with others, I still find it crucial to make your code easier to read and follow. Of course, this also applies to collaborating with other coders, but can also apply to referring to your own code. Many people, not including myself, tend to code on a near daily basis, and that amount of work can make it easier to forget previous projects or even parts of a larger project, making it important to recall what each poriton of code is contributing to what.
 
-<img width="700px" class="img-fluid rounded" src="../img/e11/e28-2.png">
-
 I also agree that coding standards can make it easier to learn a programming language. As someone who is still developing my programming skills, I find that consistent code is often easier to understand than code that achieves the same result in several different ways. Standards encourage programmers to organize functions similarly, use descriptive names, and follow common patterns within a language. When I read code that follows these conventions, I can focus more on understanding the concepts and features of the language rather than trying to decipher what the programmer intended. In that sense, coding standards do more than improve readability; they can also serve as a guide for learning how a language is commonly used.
 
 ## On the Contrary & ESlint
 
 While I understand the benefits of coding standards, my experience with ESLint has been somewhat mixed. Prior to this course, I had already developed stylistic habits such as indenting, brace placement, and code formatting. As a result, having to constantly fix issues such as using two spaces for indentation as opposed to using tabs did feel a bit restricting. This, among some other minor things, made fixing my code tedious and slightly annoying.
 
-<img width="700px" class="img-fluid rounded" src="../img/e11/e28-1.png">
+<img width="700px" class="img-fluid rounded" src="../img/e28/e28-1.png">
 
 However, I do see the benefit of ESLint, especially for newer, less experienced coders, and I soon began to understand its purpose. The goal is not necessarily to determine the one “correct” style, but rather to ensure that everyone follows the same style. While I may still prefer some formatting choices over others, having a consistent standard makes code easier to read, review, and maintain across a team. In that sense, the inconvenience of adapting to a common standard may be outweighed by the long-term benefits it provides. I do believe that everyone should have the freedom of coding in a style that is most comfortable to them, so long as it doesn’t interfere with others’ abilities to read and understand it. More importantly, however, I feel that everyone should at least remain consistent with their code.
 
