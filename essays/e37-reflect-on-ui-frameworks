@@ -11,8 +11,6 @@ labels:
   - Self
   - Bootstrap
 ---
-# UI Frameworks: Worth the Investment?
-
 ## Introduction
 
 Before taking this course, I had very little experience using UI frameworks such as Bootstrap 5. Most of my previous experience with web development involved writing raw HTML and CSS, where every element and style had to be created manually. At first, Bootstrap seemed unnecessarily complicated. Rather than making web development easier, it often felt like I had to learn an entirely new language just to accomplish tasks I already knew how to do with HTML and CSS. However, and with my short time but rigorous testing of Bootstrap, I began to understand why frameworks are so widely used. While they require a significant investment of time and patience to learn, UI frameworks provide many advantages that make developing and maintaining websites more efficient, especially on larger projects.
