@@ -31,11 +31,12 @@ I also noticed that Bootstrap encouraged me to organize my HTML more carefully. 
 
 ## The Software Engineering Benefits
 
-Beyond simply making websites look nicer, I believe UI frameworks provide several software engineering benefits. Since Bootstrap follows a standardized set of components and naming conventions, it becomes much easier for multiple developers to work on the same project. If everyone uses the same framework, developers can often understand each other's code more quickly because the structure is familiar.
+Beyond simply making websites look nicer, I believe UI frameworks provide several software engineering benefits. Since Bootstrap follows a standardized set of components and naming conventions, it becomes much easier for multiple developers to work on the same project. If everyone uses the same framework, developers can often understand each other's code more quickly because the structure is familiar. Another benefit is reducing repetitive work. Without a framework, developers often rewrite the same CSS for buttons, navigation bars, forms, spacing, and layouts across multiple projects. Bootstrap eliminates much of this repetition by providing reusable components that have already been tested across different browsers and devices. This allows developers to spend more time focusing on the unique aspects of their project instead of repeatedly solving the same design problems.
 
-Another benefit is reducing repetitive work. Without a framework, developers often rewrite the same CSS for buttons, navigation bars, forms, spacing, and layouts across multiple projects. Bootstrap eliminates much of this repetition by providing reusable components that have already been tested across different browsers and devices. This allows developers to spend more time focusing on the unique aspects of their project instead of repeatedly solving the same design problems.
+I also think frameworks make maintaining projects easier. If changes need to be made later, developers can often update existing Bootstrap classes instead of rewriting large portions of custom CSS. This can make projects easier to manage as they become larger and more complex. Below is my take on rebuilding the webpage to install OBS, a streaming software as close as possible. Some features may stand out but for the most part I was able to replicate the structure and style with proper colors and relatively similar text positions.
 
-I also think frameworks make maintaining projects easier. If changes need to be made later, developers can often update existing Bootstrap classes instead of rewriting large portions of custom CSS. This can make projects easier to manage as they become larger and more complex.
+
+<img width="700px" class="img-fluid rounded" src="../img/e37/e37-1.png">
 
 ## On the Contrary
 
