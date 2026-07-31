@@ -1,0 +1,20 @@
+---
+layout: essay
+type: essay
+title: "Cooking Up Code"
+# All dates must be YYYY-MM-DD format!
+date: 2026-07-30
+published: true
+labels:
+  - Learning
+  - TypeScript & Javascript
+  - Self
+  - Bootstrap
+---
+## Introduction
+
+A great chef does not begin every dish by inventing an entirely new method of cooking. Instead, they rely on years of experience, proven techniques, and recipes refined over time. A recipe provides a foundation, but it can still be adapted with different ingredients, flavors, and approaches to create something unique. This balance between consistency and creativity is what allows chefs to continue innovating while still relying on methods that are known to work. Much like chefs, software developers face a similar challenge when creating an application. Rather than purely solving the problem from scratch each time, they adapt and utilize established solutions known as design patterns.
+
+In this essay.
+
+<img width="700px" class="img-fluid rounded" src="../img/e37/e37-1.png">
