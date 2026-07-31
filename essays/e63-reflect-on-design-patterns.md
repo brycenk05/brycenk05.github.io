@@ -15,7 +15,7 @@ labels:
 
 A great chef does not begin every dish by inventing an entirely new method of cooking. Instead, they rely on years of experience, proven techniques, and recipes refined over time. A recipe provides a foundation, but it can still be adapted with different ingredients, flavors, and approaches to create something unique. This balance between consistency and creativity is what allows chefs to continue innovating while still relying on methods that are known to work. Much like chefs, software developers face a similar challenge when creating an application. Rather than purely solving the problem from scratch each time, they adapt and utilize established solutions known as design patterns.
 
-<img width="700px" class="img-fluid rounded" src="../img/e63/e63-1.png">
+<img width="700px" class="img-fluid rounded" src="../img/e63/e63-1.jpg">
 
 This essay explores the role of design patterns in application development and how these concepts can be applied in practice. By examining the design patterns used throughout my final project, I will discuss how these approaches helped shape the structure, organization, and maintainability of the application.
 
