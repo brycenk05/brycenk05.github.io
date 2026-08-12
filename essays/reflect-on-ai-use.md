@@ -9,7 +9,7 @@ labels:
   - Learning
   - Design Patterns
   - Software Development
-  - Artifical Intelligence
+  - Artificial Intelligence
 ---
 ## Introduction
 
@@ -31,10 +31,10 @@ I will first, share my usage of AI throughout this course through each bullet po
 - Asking or answering a smart-question: I don't want to leave this blank but in respect of everyone else's time and out of embarassment, I never fully utilized SMART questions throughout this course. However, I did use some parts of SMART to formulate a more articulate, and specific question when consulting AI about topics or issues I ran into.
 - Coding example e.g. “give an example of using Underscore .pluck”: I did however, use AI to provide more examples on a topic I wasn't too confident with, in an earlier module, I believe with earlier typescript
 - Explaining code: For this, I feel that I found myself more lost with some terms throughout the course, leading me have AI explain code to me, especially lines I stumbled upon within the demonstration videos for WODs.
-- Writing code: For the larger projects, namely the final and some of your-choice, I did have my work cut out for me, namely during the project, the work was divided amongst two people to design and implement a hiking website and some lines felt very repetetive, especially the add and edit forms. While I did work through the original add and edit forms, I found myself being very lazy and utilizing it to switch it from Events to Hikes, but of course, I double checked to ensure everything was structurally similar.
+- Writing code: For the larger projects, namely the final and some of your-choice, I did have my work cut out for me, namely during the project, the work was divided amongst two people to design and implement a hiking website and some lines felt very repetitive, especially the add and edit forms. While I did work through the original add and edit forms, I found myself being very lazy and utilizing it to switch it from Events to Hikes, but of course, I double checked to ensure everything was structurally similar.
 Documenting code
 - Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”: When I found myself running into issues that I couldn't understand, such as errors I was unfamiliar with, I would through the block of code associated and the error into ChatGPT to better understand what the problem was. I did find myself having to ask about the same error a couple of times, but I eventually learned what to do in response, which is where I felt AI shined. In terms of ESLint I rarely had issues, and if I did the fixes were quite small.
-- Other uses in ICS 314 not listed: Everything I listed above properly summarizes my usage of AI throughout this course.
+- Other uses in ICS 314 not listed: One thing I did notice that was missing above was more about the professional persona part of this course. While it wasn't a lot, I did consult AI on what to include on my professional portfolio and whether it met the given conditions
 
   <img width="700px" class="img-fluid rounded" src="../img/reflectAI/reflectAI-1.png">
 
@@ -45,7 +45,7 @@ In my recent years, especially college, I did find myself to have a minimal reli
 AI's usefulness isn't limited to assignments or quizzes. The same tools I used in ICS 314 can be applied to larger software projects where developers have to deal with unfamiliar technologies, repetitive code, debugging, and collaboration. In a real software engineering environment, I could see AI being useful for generating boilerplate code, explaining unfamiliar code, finding bugs, writing tests, or helping document a project. From my experience with the final project, I found that AI was most effective when I already had some understanding of what I was trying to accomplish and needed another perspective. While AI can save developers a lot of time, I don't think it can completely replace the developer's judgment, since generated code still needs to be tested and reviewed to make sure it actually works for the project.
 
 ## Challenges and Opportunities
-While AI might appear like this all-powerfool multi-tool, it does has it's limits, especially when it comes to where it gets it's data from. For instance, data could be outdated or even inaccurate, leading to problems created trying to use the tool to make life easier. That's not to take away from the fact that AI could be used as a library of knowledge, and I can 100% I know not even 1% of what AI knows. Even then, I do feel that AIs like ChatGPT can get stuck on an issue but, upon further inspection, was a very minor problem, and that sometimes can ask for more out of you than anything.
+While AI might appear like this all powerfull multi-tool, it does has it's limits, especially when it comes to where it gets it's data from. For instance, data could be outdated or even inaccurate, leading to problems created trying to use the tool to make life easier. That's not to take away from the fact that AI could be used as a library of knowledge, and I can 100% I know not even 1% of what AI knows. Even then, I do feel that AIs like ChatGPT can get stuck on an issue but, upon further inspection, was a very minor problem, and that sometimes can ask for more out of you than anything.
 
   <img width="700px" class="img-fluid rounded" src="../img/reflectAI/reflectAI-2.png">
 
