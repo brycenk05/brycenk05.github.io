@@ -36,6 +36,8 @@ Documenting code
 - Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”: When I found myself running into issues that I couldn't understand, such as errors I was unfamiliar with, I would through the block of code associated and the error into ChatGPT to better understand what the problem was. I did find myself having to ask about the same error a couple of times, but I eventually learned what to do in response, which is where I felt AI shined. In terms of ESLint I rarely had issues, and if I did the fixes were quite small.
 - Other uses in ICS 314 not listed: Everything I listed above properly summarizes my usage of AI throughout this course.
 
+  <img width="700px" class="img-fluid rounded" src="../img/reflectAI/reflectAI-1.png">
+
 ## Impact on Learning and Understanding:
 In my recent years, especially college, I did find myself to have a minimal reliance on AI, mainly using it as a Encyclopedia to learn more I don't know much about. And I'm not referring strictly to ChatGPT but those also implemented in browsers such as Google and Firefox. However, I also feel that this is a good and bad thing as, as soon as I don't know something, I feel an urge to get my answer out of AI before carefully thinking it out. And this, I feel is something a lot of individuals who heavily rely on AI experience, which puts a stop on their overall learning. While this is what I had experienced going into college, I pivoted towards a more tutor-like approach with AI and have challenged myself to tackle topics without AI and consult it afterward if I'm still stumped. And in this course, I do feel that AI has both helped and hurted my learning in this course, since coding ability comes with repetition, my reliance on AI to do something I might have already did (for projects), only robbed me of stronger skills, At the same time, the time it preserved me gave me more time to reflect on concepts without feeling too burned out. 
 
@@ -44,6 +46,8 @@ AI's usefulness isn't limited to assignments or quizzes. The same tools I used i
 
 ## Challenges and Opportunities
 While AI might appear like this all-powerfool multi-tool, it does has it's limits, especially when it comes to where it gets it's data from. For instance, data could be outdated or even inaccurate, leading to problems created trying to use the tool to make life easier. That's not to take away from the fact that AI could be used as a library of knowledge, and I can 100% I know not even 1% of what AI knows. Even then, I do feel that AIs like ChatGPT can get stuck on an issue but, upon further inspection, was a very minor problem, and that sometimes can ask for more out of you than anything.
+
+  <img width="700px" class="img-fluid rounded" src="../img/reflectAI/reflectAI-2.png">
 
 ## Comparative Analysis:
 
