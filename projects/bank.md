@@ -6,16 +6,26 @@ title: "Bank Interface"
 date: 2025
 published: true
 labels:
-  - C/C++
-  - Interactive
-  - Coursework
-summary: "A bank interface project completed in ICS 212"
+
+* C/C++
+* Interactive
+* Coursework
+  summary: "A semester-long banking interface project completed in ICS 212 that introduced me to file handling, modular programming, and debugging in C and C++."
 ---
 
 <img class="img-fluid" src="../img/projectpics/bank-body1.png">
+A picture of the top of what a file should contain the very top, and represents the demanded formatting rules to follow.
 
-As suggested in the summary, this was a semester-long required project during my time in ICS 212, Program Structure. To a user, the program would simply allow them to either add, delete, find and printall records on an external file. This file would be written and read from using the previously mentioned functions.
+## What is this project?
 
-The project would be completed in multiple parts, starting with learning about functions, specifically from the C library before sequentially working on the interface itself, each individual function then converted into C++. 
+The Bank Interface was a semester-long project completed as part of ICS 212, Program Structure. The goal was to create an interactive banking program that allowed users to add, delete, find, and print records stored in an external file. The program demonstrated how data could be written to and retrieved from a file while providing users with an interface to interact with those records.
 
-Because of my inexperience with the language and coding in general, I did struggle a bit with this project, even so, I was able to strengthen my ability to code especially in these new languages and more importantly, analyze and debug my code.
+The project was developed incrementally throughout the semester. I began by learning and implementing individual functions using C before progressively developing the complete interface. These functions were later adapted and implemented in C++, giving me experience working with both languages and understanding some of the differences between them.
+
+## What did I gain from this project?
+
+This project was one of my first substantial experiences working with C and C++, and it challenged me to think more carefully about how individual functions work together to form a complete program. Working with external files also introduced me to handling persistent data rather than relying solely on information stored temporarily while a program was running.
+
+One of the most valuable skills I gained was debugging. When something did not work as expected, I had to analyze my code, identify the source of the problem, and determine how to correct it without breaking other parts of the program. Through this process, I became more comfortable reading my own code and approaching programming problems systematically.
+
+Although the project was challenging at times, completing it gave me greater confidence in my ability to learn unfamiliar programming languages and apply them to a larger project.
