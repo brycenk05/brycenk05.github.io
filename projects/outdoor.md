@@ -12,7 +12,7 @@ labels:
 summary: "An app that allows students to explore new heights and form new connections"
 ---
 
-<img class="img-fluid" src="../img/projectpics/outdoor-1.jpg">
+<img class="img-fluid" src="../img/projectpics/outdoor-1.png">
 Outdoor Buddies Landing Page
 
 
@@ -32,11 +32,11 @@ Having only recently learned the skills utilized in this project, I was able to 
 
 If you are interested in more details, you can find our developer home page for our project [here](https://outdoor-buddies.github.io/)
 
-<img class="img-fluid" src="../img/projectpics/outdoor-2.jpg">
-Outdoor Buddies Announcements Page
+### Outdoor Buddies Announcements Page
+<img class="img-fluid" src="../img/projectpics/outdoor-2.png">
 
-<img class="img-fluid" src="../img/projectpics/outdoor-3.jpg">
-Outdoor Buddies Hikes Page
+### Outdoor Buddies Hikes Page
+<img class="img-fluid" src="../img/projectpics/outdoor-3.png">
 
-<img class="img-fluid" src="../img/projectpics/outdoor-4.jpg">
-Description for a hike found on the Hikes Page
+### Description for a hike found on the Hikes Page
+<img class="img-fluid" src="../img/projectpics/outdoor-4.png">
