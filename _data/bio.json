@@ -6,7 +6,7 @@
     "email": "brycenyk@hawaii.edu",
     "phone": "808-217-6476",
     "website": "https://brycenk05.github.io",
-    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2026.",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2027.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "brycenk05", "url": "http://github.com/brycenk05" },
@@ -21,10 +21,16 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java"]
+      "name": "Languages",
+      "keywords": [ "C", "C++", "Java", "Javascript", "Typescript", "HTML5", "CSS" ]
     },
+      "name": "Frameworks",
+      "keywords": [ "Bootstrap", "React", "NextJS", ]
     {
+    {
+      "name": "Databases",
+      "keywords": [ "PostgreSQL", "SQL" ]
+    },
       "name": "Social Skills",
       "keywords": [ "Adaptability", "Cooperating with others", "Attention to Detail" ]
     }
