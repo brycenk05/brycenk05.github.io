@@ -6,15 +6,25 @@ title: "Elder Care"
 date: 2022-2023
 published: true
 labels:
-  - Internship
-  - Psychology
-summary: "During my senior year of high school, I experienced the workfield through an internship at Hale Anuenue"
+
+* Internship
+* Psychology
+  summary: "During my senior year of high school, I gained professional experience through an internship at Hale Anuenue, a long-term care facility."
 ---
 
 <img class="img-fluid" src="../img/projectpics/care-body1.jpg">
+Escorting a resident to the cafeteria for lunch
 
-In my senior year, I was tasked with finding a place to gain some internship experience and build my senior project around. Eventually, I landed an internship at Hale Anuenue, a long-term care home where I would be supervised to gain experience through performing tasks including, frequently monitoring some residents needs and wellbeing, taking residents around the facility and reporting back to my supervisor.
+## What was this project?
 
-The experience had taught me quite a bit and not just skills such as patience and understanding but also how vital everyones role was in maintaining the needs of the residents and it left me to ponder whether if this really is the field for me.
+During my senior year of high school, I was tasked with finding an internship where I could gain professional experience and develop a senior project around my experience. I ultimately completed my internship at Hale Anuenue, a long-term care facility, where I was supervised while working directly with residents and staff.
 
-Nearing the end of my senior year, I would share my experience with professionals in that field in multiple, elevator-pitch speeches and I arrived to the conclusion that, I wasn't too fit for fields involving psychology, with the entire experience taking a toll on my wellbeing. 
+My responsibilities included monitoring residents' needs and wellbeing, assisting residents as they moved throughout the facility, and communicating observations and concerns to my supervisor. While these responsibilities were relatively simple, they required patience, attentiveness, and an understanding of how to interact respectfully with individuals who had different needs and circumstances.
+
+## What did I gain from this experience?
+
+This internship gave me my first opportunity to experience a professional work environment and helped me better understand the importance of every individual's role in providing quality care. I developed greater patience, communication skills, and empathy while learning how seemingly small responsibilities can contribute to the overall wellbeing of residents.
+
+More importantly, the experience helped me make a meaningful decision about my future. Near the end of my senior year, I presented my experiences to professionals in the field through several elevator-pitch presentations. Through reflecting on my internship and discussing the field with experienced professionals, I realized that psychology and elder care were not the right career paths for me.
+
+Although I ultimately decided not to pursue this field, the experience was valuable because it taught me that discovering what I *do not* want to pursue can be just as important as discovering what I do. This internship encouraged me to continue exploring different areas until I found a field that better aligned with my interests and strengths.
