@@ -6,10 +6,9 @@ title: "Elder Care"
 date: 2022-2023
 published: true
 labels:
-
-* Internship
-* Psychology
-  summary: "During my senior year of high school, I gained professional experience through an internship at Hale Anuenue, a long-term care facility."
+  - Internship
+  - Psychology
+summary: "During my senior year of high school, I gained professional experience through an internship at Hale Anuenue, a long-term care facility."
 ---
 
 <img class="img-fluid" src="../img/projectpics/care-body1.jpg">
