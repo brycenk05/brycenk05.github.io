@@ -6,10 +6,10 @@ title: "Bank Interface"
 date: 2025
 published: true
 labels:
-- C/C++
-- Interactive
-- Coursework
-  summary: "A semester-long banking interface project completed in ICS 212 that introduced me to file handling, modular programming, and debugging in C and C++."
+  - C/C++
+  - Interactive
+  - Coursework
+summary: "An app that allows students to explore new heights and form new connections"
 ---
 
 <img class="img-fluid" src="../img/projectpics/bank-body1.png">
