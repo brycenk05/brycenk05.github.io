@@ -6,7 +6,6 @@ title: "Kakehashi Cultural Exchange"
 date: 2025
 published: true
 labels:
-
 * Learning
 * Exploration
   summary: "Selected to participate in the Kakehashi Japan Cultural Exchange Program, an international exchange initiative designed to strengthen understanding and relationships between Japan and the United States."
