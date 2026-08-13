@@ -13,7 +13,7 @@ summary: "An app that allows students to explore new heights and form new connec
 ---
 
 <img class="img-fluid" src="../img/projectpics/bank-body1.png">
-A picture of the top of what a file should contain the very top, and represents the demanded formatting rules to follow.
+<p>A picture of the top of what a file should contain, representing the required formatting rules to follow.</p>
 
 ## What is this project?
 
