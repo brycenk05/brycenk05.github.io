@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Title"
+title: "Process, Design, and Responsibility"
 # All dates must be YYYY-MM-DD format!
 date: 2026-08-16
 published: true
@@ -32,4 +32,4 @@ While these concerns are relevant even within web development, these concerns be
 ## Conclusion and AI Usage
 Overall, ICS 314 gave me a broader understanding of software engineering than I had when I first entered the course. While I expected to learn how to develop web applications, I came to understand that the engineering process surrounding software is just as important as the application itself. agile project management showed me the importance of organizing and adapting development, while design patterns demonstrated how established solutions can help developers approach recurring problems. Ethics further showed me that technical ability comes with a responsibility to consider the consequences of the software we create. These lessons extend beyond web development and are principles I plan to carry into future software projects, regardless of the type of software being developed.
 
-As per usual, I used AI throughout the development of this essay primarily as a tool for planning, structuring, and reviewing my writing. I used it to review my understanding of the three topics, the best-fit order for the three topics, and check the clarity and wording of my ideas. I provided my own experiences and understanding of ICS 314 and reviewed and modified AI suggestions to ensure that the final essay accurately represented my perspective. AI was therefore used as a supplement to my writing process rather than as a replacement for my own ideas or reflection.
+I used AI tools such as ChatGPT and Grammarly as support resources throughout the writing process. AI was used to review my understanding of the three topics, help determine their order, and check the clarity and wording of my ideas. The experiences and ideas came from my own understanding of ICS 314, and I reviewed and adapted AI suggestions to ensure that the final essay reflected my own perspective.
