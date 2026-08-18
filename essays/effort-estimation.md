@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Would You Look at the Time?"
+title: "Effort Estimation: Would You Look at the Time?"
 # All dates must be YYYY-MM-DD format!
 date: 2026-08-17
 published: true
@@ -9,7 +9,7 @@ labels:
   - Agile Project Management
   - Learning
   - Teamwork & Cooperation
-  - Software Development
+  - Outdoor Buddies
 ---
 ## Introduction
 Starting out, I did not have a strong understanding of how much time I needed to complete different tasks, resulting in inconsistent time estimates. Through each passing WOD, I gradually became more confident not only in my ability to complete tasks independently, but also in my ability to judge how much effort they would require. This experience helped me develop a better sense of estimation leading up to the final project. I would later find that estimating a larger software project presented challenges that were difficult to anticipate from individual assignments.
